@@ -4,7 +4,6 @@
 A lightweight Bash-based authentication tool for clinic or patient login systems.
 
 
-
 📌 Project Overview
 
 This project is a simple healthcare login system built using Bash.
